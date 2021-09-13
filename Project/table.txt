@@ -1,0 +1,729 @@
+La Peste,novel,press one,Albert Camus,200,2000
+La Peste,novel,press one,Albert Camus,200,2005
+La Peste,novel,press one,Albert Camus,200,2020
+La Peste,novel,press one,Albert Camus,50,2000
+La Peste,novel,press one,Albert Camus,50,2005
+La Peste,novel,press one,Albert Camus,50,2020
+La Peste,novel,press one,Albert Camus,620,2000
+La Peste,novel,press one,Albert Camus,620,2005
+La Peste,novel,press one,Albert Camus,620,2020
+La Peste,novel,press one,LuXun,200,2000
+La Peste,novel,press one,LuXun,200,2005
+La Peste,novel,press one,LuXun,200,2020
+La Peste,novel,press one,LuXun,50,2000
+La Peste,novel,press one,LuXun,50,2005
+La Peste,novel,press one,LuXun,50,2020
+La Peste,novel,press one,LuXun,620,2000
+La Peste,novel,press one,LuXun,620,2005
+La Peste,novel,press one,LuXun,620,2020
+La Peste,novel,press one,kk,200,2000
+La Peste,novel,press one,kk,200,2005
+La Peste,novel,press one,kk,200,2020
+La Peste,novel,press one,kk,50,2000
+La Peste,novel,press one,kk,50,2005
+La Peste,novel,press one,kk,50,2020
+La Peste,novel,press one,kk,620,2000
+La Peste,novel,press one,kk,620,2005
+La Peste,novel,press one,kk,620,2020
+La Peste,novel,press two,Albert Camus,200,2000
+La Peste,novel,press two,Albert Camus,200,2005
+La Peste,novel,press two,Albert Camus,200,2020
+La Peste,novel,press two,Albert Camus,50,2000
+La Peste,novel,press two,Albert Camus,50,2005
+La Peste,novel,press two,Albert Camus,50,2020
+La Peste,novel,press two,Albert Camus,620,2000
+La Peste,novel,press two,Albert Camus,620,2005
+La Peste,novel,press two,Albert Camus,620,2020
+La Peste,novel,press two,LuXun,200,2000
+La Peste,novel,press two,LuXun,200,2005
+La Peste,novel,press two,LuXun,200,2020
+La Peste,novel,press two,LuXun,50,2000
+La Peste,novel,press two,LuXun,50,2005
+La Peste,novel,press two,LuXun,50,2020
+La Peste,novel,press two,LuXun,620,2000
+La Peste,novel,press two,LuXun,620,2005
+La Peste,novel,press two,LuXun,620,2020
+La Peste,novel,press two,kk,200,2000
+La Peste,novel,press two,kk,200,2005
+La Peste,novel,press two,kk,200,2020
+La Peste,novel,press two,kk,50,2000
+La Peste,novel,press two,kk,50,2005
+La Peste,novel,press two,kk,50,2020
+La Peste,novel,press two,kk,620,2000
+La Peste,novel,press two,kk,620,2005
+La Peste,novel,press two,kk,620,2020
+La Peste,novel,press three,Albert Camus,200,2000
+La Peste,novel,press three,Albert Camus,200,2005
+La Peste,novel,press three,Albert Camus,200,2020
+La Peste,novel,press three,Albert Camus,50,2000
+La Peste,novel,press three,Albert Camus,50,2005
+La Peste,novel,press three,Albert Camus,50,2020
+La Peste,novel,press three,Albert Camus,620,2000
+La Peste,novel,press three,Albert Camus,620,2005
+La Peste,novel,press three,Albert Camus,620,2020
+La Peste,novel,press three,LuXun,200,2000
+La Peste,novel,press three,LuXun,200,2005
+La Peste,novel,press three,LuXun,200,2020
+La Peste,novel,press three,LuXun,50,2000
+La Peste,novel,press three,LuXun,50,2005
+La Peste,novel,press three,LuXun,50,2020
+La Peste,novel,press three,LuXun,620,2000
+La Peste,novel,press three,LuXun,620,2005
+La Peste,novel,press three,LuXun,620,2020
+La Peste,novel,press three,kk,200,2000
+La Peste,novel,press three,kk,200,2005
+La Peste,novel,press three,kk,200,2020
+La Peste,novel,press three,kk,50,2000
+La Peste,novel,press three,kk,50,2005
+La Peste,novel,press three,kk,50,2020
+La Peste,novel,press three,kk,620,2000
+La Peste,novel,press three,kk,620,2005
+La Peste,novel,press three,kk,620,2020
+La Peste,cs,press one,Albert Camus,200,2000
+La Peste,cs,press one,Albert Camus,200,2005
+La Peste,cs,press one,Albert Camus,200,2020
+La Peste,cs,press one,Albert Camus,50,2000
+La Peste,cs,press one,Albert Camus,50,2005
+La Peste,cs,press one,Albert Camus,50,2020
+La Peste,cs,press one,Albert Camus,620,2000
+La Peste,cs,press one,Albert Camus,620,2005
+La Peste,cs,press one,Albert Camus,620,2020
+La Peste,cs,press one,LuXun,200,2000
+La Peste,cs,press one,LuXun,200,2005
+La Peste,cs,press one,LuXun,200,2020
+La Peste,cs,press one,LuXun,50,2000
+La Peste,cs,press one,LuXun,50,2005
+La Peste,cs,press one,LuXun,50,2020
+La Peste,cs,press one,LuXun,620,2000
+La Peste,cs,press one,LuXun,620,2005
+La Peste,cs,press one,LuXun,620,2020
+La Peste,cs,press one,kk,200,2000
+La Peste,cs,press one,kk,200,2005
+La Peste,cs,press one,kk,200,2020
+La Peste,cs,press one,kk,50,2000
+La Peste,cs,press one,kk,50,2005
+La Peste,cs,press one,kk,50,2020
+La Peste,cs,press one,kk,620,2000
+La Peste,cs,press one,kk,620,2005
+La Peste,cs,press one,kk,620,2020
+La Peste,cs,press two,Albert Camus,200,2000
+La Peste,cs,press two,Albert Camus,200,2005
+La Peste,cs,press two,Albert Camus,200,2020
+La Peste,cs,press two,Albert Camus,50,2000
+La Peste,cs,press two,Albert Camus,50,2005
+La Peste,cs,press two,Albert Camus,50,2020
+La Peste,cs,press two,Albert Camus,620,2000
+La Peste,cs,press two,Albert Camus,620,2005
+La Peste,cs,press two,Albert Camus,620,2020
+La Peste,cs,press two,LuXun,200,2000
+La Peste,cs,press two,LuXun,200,2005
+La Peste,cs,press two,LuXun,200,2020
+La Peste,cs,press two,LuXun,50,2000
+La Peste,cs,press two,LuXun,50,2005
+La Peste,cs,press two,LuXun,50,2020
+La Peste,cs,press two,LuXun,620,2000
+La Peste,cs,press two,LuXun,620,2005
+La Peste,cs,press two,LuXun,620,2020
+La Peste,cs,press two,kk,200,2000
+La Peste,cs,press two,kk,200,2005
+La Peste,cs,press two,kk,200,2020
+La Peste,cs,press two,kk,50,2000
+La Peste,cs,press two,kk,50,2005
+La Peste,cs,press two,kk,50,2020
+La Peste,cs,press two,kk,620,2000
+La Peste,cs,press two,kk,620,2005
+La Peste,cs,press two,kk,620,2020
+La Peste,cs,press three,Albert Camus,200,2000
+La Peste,cs,press three,Albert Camus,200,2005
+La Peste,cs,press three,Albert Camus,200,2020
+La Peste,cs,press three,Albert Camus,50,2000
+La Peste,cs,press three,Albert Camus,50,2005
+La Peste,cs,press three,Albert Camus,50,2020
+La Peste,cs,press three,Albert Camus,620,2000
+La Peste,cs,press three,Albert Camus,620,2005
+La Peste,cs,press three,Albert Camus,620,2020
+La Peste,cs,press three,LuXun,200,2000
+La Peste,cs,press three,LuXun,200,2005
+La Peste,cs,press three,LuXun,200,2020
+La Peste,cs,press three,LuXun,50,2000
+La Peste,cs,press three,LuXun,50,2005
+La Peste,cs,press three,LuXun,50,2020
+La Peste,cs,press three,LuXun,620,2000
+La Peste,cs,press three,LuXun,620,2005
+La Peste,cs,press three,LuXun,620,2020
+La Peste,cs,press three,kk,200,2000
+La Peste,cs,press three,kk,200,2005
+La Peste,cs,press three,kk,200,2020
+La Peste,cs,press three,kk,50,2000
+La Peste,cs,press three,kk,50,2005
+La Peste,cs,press three,kk,50,2020
+La Peste,cs,press three,kk,620,2000
+La Peste,cs,press three,kk,620,2005
+La Peste,cs,press three,kk,620,2020
+La Peste,literary,press one,Albert Camus,200,2000
+La Peste,literary,press one,Albert Camus,200,2005
+La Peste,literary,press one,Albert Camus,200,2020
+La Peste,literary,press one,Albert Camus,50,2000
+La Peste,literary,press one,Albert Camus,50,2005
+La Peste,literary,press one,Albert Camus,50,2020
+La Peste,literary,press one,Albert Camus,620,2000
+La Peste,literary,press one,Albert Camus,620,2005
+La Peste,literary,press one,Albert Camus,620,2020
+La Peste,literary,press one,LuXun,200,2000
+La Peste,literary,press one,LuXun,200,2005
+La Peste,literary,press one,LuXun,200,2020
+La Peste,literary,press one,LuXun,50,2000
+La Peste,literary,press one,LuXun,50,2005
+La Peste,literary,press one,LuXun,50,2020
+La Peste,literary,press one,LuXun,620,2000
+La Peste,literary,press one,LuXun,620,2005
+La Peste,literary,press one,LuXun,620,2020
+La Peste,literary,press one,kk,200,2000
+La Peste,literary,press one,kk,200,2005
+La Peste,literary,press one,kk,200,2020
+La Peste,literary,press one,kk,50,2000
+La Peste,literary,press one,kk,50,2005
+La Peste,literary,press one,kk,50,2020
+La Peste,literary,press one,kk,620,2000
+La Peste,literary,press one,kk,620,2005
+La Peste,literary,press one,kk,620,2020
+La Peste,literary,press two,Albert Camus,200,2000
+La Peste,literary,press two,Albert Camus,200,2005
+La Peste,literary,press two,Albert Camus,200,2020
+La Peste,literary,press two,Albert Camus,50,2000
+La Peste,literary,press two,Albert Camus,50,2005
+La Peste,literary,press two,Albert Camus,50,2020
+La Peste,literary,press two,Albert Camus,620,2000
+La Peste,literary,press two,Albert Camus,620,2005
+La Peste,literary,press two,Albert Camus,620,2020
+La Peste,literary,press two,LuXun,200,2000
+La Peste,literary,press two,LuXun,200,2005
+La Peste,literary,press two,LuXun,200,2020
+La Peste,literary,press two,LuXun,50,2000
+La Peste,literary,press two,LuXun,50,2005
+La Peste,literary,press two,LuXun,50,2020
+La Peste,literary,press two,LuXun,620,2000
+La Peste,literary,press two,LuXun,620,2005
+La Peste,literary,press two,LuXun,620,2020
+La Peste,literary,press two,kk,200,2000
+La Peste,literary,press two,kk,200,2005
+La Peste,literary,press two,kk,200,2020
+La Peste,literary,press two,kk,50,2000
+La Peste,literary,press two,kk,50,2005
+La Peste,literary,press two,kk,50,2020
+La Peste,literary,press two,kk,620,2000
+La Peste,literary,press two,kk,620,2005
+La Peste,literary,press two,kk,620,2020
+La Peste,literary,press three,Albert Camus,200,2000
+La Peste,literary,press three,Albert Camus,200,2005
+La Peste,literary,press three,Albert Camus,200,2020
+La Peste,literary,press three,Albert Camus,50,2000
+La Peste,literary,press three,Albert Camus,50,2005
+La Peste,literary,press three,Albert Camus,50,2020
+La Peste,literary,press three,Albert Camus,620,2000
+La Peste,literary,press three,Albert Camus,620,2005
+La Peste,literary,press three,Albert Camus,620,2020
+La Peste,literary,press three,LuXun,200,2000
+La Peste,literary,press three,LuXun,200,2005
+La Peste,literary,press three,LuXun,200,2020
+La Peste,literary,press three,LuXun,50,2000
+La Peste,literary,press three,LuXun,50,2005
+La Peste,literary,press three,LuXun,50,2020
+La Peste,literary,press three,LuXun,620,2000
+La Peste,literary,press three,LuXun,620,2005
+La Peste,literary,press three,LuXun,620,2020
+La Peste,literary,press three,kk,200,2000
+La Peste,literary,press three,kk,200,2005
+La Peste,literary,press three,kk,200,2020
+La Peste,literary,press three,kk,50,2000
+La Peste,literary,press three,kk,50,2005
+La Peste,literary,press three,kk,50,2020
+La Peste,literary,press three,kk,620,2000
+La Peste,literary,press three,kk,620,2005
+La Peste,literary,press three,kk,620,2020
+C++,novel,press one,Albert Camus,200,2000
+C++,novel,press one,Albert Camus,200,2005
+C++,novel,press one,Albert Camus,200,2020
+C++,novel,press one,Albert Camus,50,2000
+C++,novel,press one,Albert Camus,50,2005
+C++,novel,press one,Albert Camus,50,2020
+C++,novel,press one,Albert Camus,620,2000
+C++,novel,press one,Albert Camus,620,2005
+C++,novel,press one,Albert Camus,620,2020
+C++,novel,press one,LuXun,200,2000
+C++,novel,press one,LuXun,200,2005
+C++,novel,press one,LuXun,200,2020
+C++,novel,press one,LuXun,50,2000
+C++,novel,press one,LuXun,50,2005
+C++,novel,press one,LuXun,50,2020
+C++,novel,press one,LuXun,620,2000
+C++,novel,press one,LuXun,620,2005
+C++,novel,press one,LuXun,620,2020
+C++,novel,press one,kk,200,2000
+C++,novel,press one,kk,200,2005
+C++,novel,press one,kk,200,2020
+C++,novel,press one,kk,50,2000
+C++,novel,press one,kk,50,2005
+C++,novel,press one,kk,50,2020
+C++,novel,press one,kk,620,2000
+C++,novel,press one,kk,620,2005
+C++,novel,press one,kk,620,2020
+C++,novel,press two,Albert Camus,200,2000
+C++,novel,press two,Albert Camus,200,2005
+C++,novel,press two,Albert Camus,200,2020
+C++,novel,press two,Albert Camus,50,2000
+C++,novel,press two,Albert Camus,50,2005
+C++,novel,press two,Albert Camus,50,2020
+C++,novel,press two,Albert Camus,620,2000
+C++,novel,press two,Albert Camus,620,2005
+C++,novel,press two,Albert Camus,620,2020
+C++,novel,press two,LuXun,200,2000
+C++,novel,press two,LuXun,200,2005
+C++,novel,press two,LuXun,200,2020
+C++,novel,press two,LuXun,50,2000
+C++,novel,press two,LuXun,50,2005
+C++,novel,press two,LuXun,50,2020
+C++,novel,press two,LuXun,620,2000
+C++,novel,press two,LuXun,620,2005
+C++,novel,press two,LuXun,620,2020
+C++,novel,press two,kk,200,2000
+C++,novel,press two,kk,200,2005
+C++,novel,press two,kk,200,2020
+C++,novel,press two,kk,50,2000
+C++,novel,press two,kk,50,2005
+C++,novel,press two,kk,50,2020
+C++,novel,press two,kk,620,2000
+C++,novel,press two,kk,620,2005
+C++,novel,press two,kk,620,2020
+C++,novel,press three,Albert Camus,200,2000
+C++,novel,press three,Albert Camus,200,2005
+C++,novel,press three,Albert Camus,200,2020
+C++,novel,press three,Albert Camus,50,2000
+C++,novel,press three,Albert Camus,50,2005
+C++,novel,press three,Albert Camus,50,2020
+C++,novel,press three,Albert Camus,620,2000
+C++,novel,press three,Albert Camus,620,2005
+C++,novel,press three,Albert Camus,620,2020
+C++,novel,press three,LuXun,200,2000
+C++,novel,press three,LuXun,200,2005
+C++,novel,press three,LuXun,200,2020
+C++,novel,press three,LuXun,50,2000
+C++,novel,press three,LuXun,50,2005
+C++,novel,press three,LuXun,50,2020
+C++,novel,press three,LuXun,620,2000
+C++,novel,press three,LuXun,620,2005
+C++,novel,press three,LuXun,620,2020
+C++,novel,press three,kk,200,2000
+C++,novel,press three,kk,200,2005
+C++,novel,press three,kk,200,2020
+C++,novel,press three,kk,50,2000
+C++,novel,press three,kk,50,2005
+C++,novel,press three,kk,50,2020
+C++,novel,press three,kk,620,2000
+C++,novel,press three,kk,620,2005
+C++,novel,press three,kk,620,2020
+C++,cs,press one,Albert Camus,200,2000
+C++,cs,press one,Albert Camus,200,2005
+C++,cs,press one,Albert Camus,200,2020
+C++,cs,press one,Albert Camus,50,2000
+C++,cs,press one,Albert Camus,50,2005
+C++,cs,press one,Albert Camus,50,2020
+C++,cs,press one,Albert Camus,620,2000
+C++,cs,press one,Albert Camus,620,2005
+C++,cs,press one,Albert Camus,620,2020
+C++,cs,press one,LuXun,200,2000
+C++,cs,press one,LuXun,200,2005
+C++,cs,press one,LuXun,200,2020
+C++,cs,press one,LuXun,50,2000
+C++,cs,press one,LuXun,50,2005
+C++,cs,press one,LuXun,50,2020
+C++,cs,press one,LuXun,620,2000
+C++,cs,press one,LuXun,620,2005
+C++,cs,press one,LuXun,620,2020
+C++,cs,press one,kk,200,2000
+C++,cs,press one,kk,200,2005
+C++,cs,press one,kk,200,2020
+C++,cs,press one,kk,50,2000
+C++,cs,press one,kk,50,2005
+C++,cs,press one,kk,50,2020
+C++,cs,press one,kk,620,2000
+C++,cs,press one,kk,620,2005
+C++,cs,press one,kk,620,2020
+C++,cs,press two,Albert Camus,200,2000
+C++,cs,press two,Albert Camus,200,2005
+C++,cs,press two,Albert Camus,200,2020
+C++,cs,press two,Albert Camus,50,2000
+C++,cs,press two,Albert Camus,50,2005
+C++,cs,press two,Albert Camus,50,2020
+C++,cs,press two,Albert Camus,620,2000
+C++,cs,press two,Albert Camus,620,2005
+C++,cs,press two,Albert Camus,620,2020
+C++,cs,press two,LuXun,200,2000
+C++,cs,press two,LuXun,200,2005
+C++,cs,press two,LuXun,200,2020
+C++,cs,press two,LuXun,50,2000
+C++,cs,press two,LuXun,50,2005
+C++,cs,press two,LuXun,50,2020
+C++,cs,press two,LuXun,620,2000
+C++,cs,press two,LuXun,620,2005
+C++,cs,press two,LuXun,620,2020
+C++,cs,press two,kk,200,2000
+C++,cs,press two,kk,200,2005
+C++,cs,press two,kk,200,2020
+C++,cs,press two,kk,50,2000
+C++,cs,press two,kk,50,2005
+C++,cs,press two,kk,50,2020
+C++,cs,press two,kk,620,2000
+C++,cs,press two,kk,620,2005
+C++,cs,press two,kk,620,2020
+C++,cs,press three,Albert Camus,200,2000
+C++,cs,press three,Albert Camus,200,2005
+C++,cs,press three,Albert Camus,200,2020
+C++,cs,press three,Albert Camus,50,2000
+C++,cs,press three,Albert Camus,50,2005
+C++,cs,press three,Albert Camus,50,2020
+C++,cs,press three,Albert Camus,620,2000
+C++,cs,press three,Albert Camus,620,2005
+C++,cs,press three,Albert Camus,620,2020
+C++,cs,press three,LuXun,200,2000
+C++,cs,press three,LuXun,200,2005
+C++,cs,press three,LuXun,200,2020
+C++,cs,press three,LuXun,50,2000
+C++,cs,press three,LuXun,50,2005
+C++,cs,press three,LuXun,50,2020
+C++,cs,press three,LuXun,620,2000
+C++,cs,press three,LuXun,620,2005
+C++,cs,press three,LuXun,620,2020
+C++,cs,press three,kk,200,2000
+C++,cs,press three,kk,200,2005
+C++,cs,press three,kk,200,2020
+C++,cs,press three,kk,50,2000
+C++,cs,press three,kk,50,2005
+C++,cs,press three,kk,50,2020
+C++,cs,press three,kk,620,2000
+C++,cs,press three,kk,620,2005
+C++,cs,press three,kk,620,2020
+C++,literary,press one,Albert Camus,200,2000
+C++,literary,press one,Albert Camus,200,2005
+C++,literary,press one,Albert Camus,200,2020
+C++,literary,press one,Albert Camus,50,2000
+C++,literary,press one,Albert Camus,50,2005
+C++,literary,press one,Albert Camus,50,2020
+C++,literary,press one,Albert Camus,620,2000
+C++,literary,press one,Albert Camus,620,2005
+C++,literary,press one,Albert Camus,620,2020
+C++,literary,press one,LuXun,200,2000
+C++,literary,press one,LuXun,200,2005
+C++,literary,press one,LuXun,200,2020
+C++,literary,press one,LuXun,50,2000
+C++,literary,press one,LuXun,50,2005
+C++,literary,press one,LuXun,50,2020
+C++,literary,press one,LuXun,620,2000
+C++,literary,press one,LuXun,620,2005
+C++,literary,press one,LuXun,620,2020
+C++,literary,press one,kk,200,2000
+C++,literary,press one,kk,200,2005
+C++,literary,press one,kk,200,2020
+C++,literary,press one,kk,50,2000
+C++,literary,press one,kk,50,2005
+C++,literary,press one,kk,50,2020
+C++,literary,press one,kk,620,2000
+C++,literary,press one,kk,620,2005
+C++,literary,press one,kk,620,2020
+C++,literary,press two,Albert Camus,200,2000
+C++,literary,press two,Albert Camus,200,2005
+C++,literary,press two,Albert Camus,200,2020
+C++,literary,press two,Albert Camus,50,2000
+C++,literary,press two,Albert Camus,50,2005
+C++,literary,press two,Albert Camus,50,2020
+C++,literary,press two,Albert Camus,620,2000
+C++,literary,press two,Albert Camus,620,2005
+C++,literary,press two,Albert Camus,620,2020
+C++,literary,press two,LuXun,200,2000
+C++,literary,press two,LuXun,200,2005
+C++,literary,press two,LuXun,200,2020
+C++,literary,press two,LuXun,50,2000
+C++,literary,press two,LuXun,50,2005
+C++,literary,press two,LuXun,50,2020
+C++,literary,press two,LuXun,620,2000
+C++,literary,press two,LuXun,620,2005
+C++,literary,press two,LuXun,620,2020
+C++,literary,press two,kk,200,2000
+C++,literary,press two,kk,200,2005
+C++,literary,press two,kk,200,2020
+C++,literary,press two,kk,50,2000
+C++,literary,press two,kk,50,2005
+C++,literary,press two,kk,50,2020
+C++,literary,press two,kk,620,2000
+C++,literary,press two,kk,620,2005
+C++,literary,press two,kk,620,2020
+C++,literary,press three,Albert Camus,200,2000
+C++,literary,press three,Albert Camus,200,2005
+C++,literary,press three,Albert Camus,200,2020
+C++,literary,press three,Albert Camus,50,2000
+C++,literary,press three,Albert Camus,50,2005
+C++,literary,press three,Albert Camus,50,2020
+C++,literary,press three,Albert Camus,620,2000
+C++,literary,press three,Albert Camus,620,2005
+C++,literary,press three,Albert Camus,620,2020
+C++,literary,press three,LuXun,200,2000
+C++,literary,press three,LuXun,200,2005
+C++,literary,press three,LuXun,200,2020
+C++,literary,press three,LuXun,50,2000
+C++,literary,press three,LuXun,50,2005
+C++,literary,press three,LuXun,50,2020
+C++,literary,press three,LuXun,620,2000
+C++,literary,press three,LuXun,620,2005
+C++,literary,press three,LuXun,620,2020
+C++,literary,press three,kk,200,2000
+C++,literary,press three,kk,200,2005
+C++,literary,press three,kk,200,2020
+C++,literary,press three,kk,50,2000
+C++,literary,press three,kk,50,2005
+C++,literary,press three,kk,50,2020
+C++,literary,press three,kk,620,2000
+C++,literary,press three,kk,620,2005
+C++,literary,press three,kk,620,2020
+Wild Grass,novel,press one,Albert Camus,200,2000
+Wild Grass,novel,press one,Albert Camus,200,2005
+Wild Grass,novel,press one,Albert Camus,200,2020
+Wild Grass,novel,press one,Albert Camus,50,2000
+Wild Grass,novel,press one,Albert Camus,50,2005
+Wild Grass,novel,press one,Albert Camus,50,2020
+Wild Grass,novel,press one,Albert Camus,620,2000
+Wild Grass,novel,press one,Albert Camus,620,2005
+Wild Grass,novel,press one,Albert Camus,620,2020
+Wild Grass,novel,press one,LuXun,200,2000
+Wild Grass,novel,press one,LuXun,200,2005
+Wild Grass,novel,press one,LuXun,200,2020
+Wild Grass,novel,press one,LuXun,50,2000
+Wild Grass,novel,press one,LuXun,50,2005
+Wild Grass,novel,press one,LuXun,50,2020
+Wild Grass,novel,press one,LuXun,620,2000
+Wild Grass,novel,press one,LuXun,620,2005
+Wild Grass,novel,press one,LuXun,620,2020
+Wild Grass,novel,press one,kk,200,2000
+Wild Grass,novel,press one,kk,200,2005
+Wild Grass,novel,press one,kk,200,2020
+Wild Grass,novel,press one,kk,50,2000
+Wild Grass,novel,press one,kk,50,2005
+Wild Grass,novel,press one,kk,50,2020
+Wild Grass,novel,press one,kk,620,2000
+Wild Grass,novel,press one,kk,620,2005
+Wild Grass,novel,press one,kk,620,2020
+Wild Grass,novel,press two,Albert Camus,200,2000
+Wild Grass,novel,press two,Albert Camus,200,2005
+Wild Grass,novel,press two,Albert Camus,200,2020
+Wild Grass,novel,press two,Albert Camus,50,2000
+Wild Grass,novel,press two,Albert Camus,50,2005
+Wild Grass,novel,press two,Albert Camus,50,2020
+Wild Grass,novel,press two,Albert Camus,620,2000
+Wild Grass,novel,press two,Albert Camus,620,2005
+Wild Grass,novel,press two,Albert Camus,620,2020
+Wild Grass,novel,press two,LuXun,200,2000
+Wild Grass,novel,press two,LuXun,200,2005
+Wild Grass,novel,press two,LuXun,200,2020
+Wild Grass,novel,press two,LuXun,50,2000
+Wild Grass,novel,press two,LuXun,50,2005
+Wild Grass,novel,press two,LuXun,50,2020
+Wild Grass,novel,press two,LuXun,620,2000
+Wild Grass,novel,press two,LuXun,620,2005
+Wild Grass,novel,press two,LuXun,620,2020
+Wild Grass,novel,press two,kk,200,2000
+Wild Grass,novel,press two,kk,200,2005
+Wild Grass,novel,press two,kk,200,2020
+Wild Grass,novel,press two,kk,50,2000
+Wild Grass,novel,press two,kk,50,2005
+Wild Grass,novel,press two,kk,50,2020
+Wild Grass,novel,press two,kk,620,2000
+Wild Grass,novel,press two,kk,620,2005
+Wild Grass,novel,press two,kk,620,2020
+Wild Grass,novel,press three,Albert Camus,200,2000
+Wild Grass,novel,press three,Albert Camus,200,2005
+Wild Grass,novel,press three,Albert Camus,200,2020
+Wild Grass,novel,press three,Albert Camus,50,2000
+Wild Grass,novel,press three,Albert Camus,50,2005
+Wild Grass,novel,press three,Albert Camus,50,2020
+Wild Grass,novel,press three,Albert Camus,620,2000
+Wild Grass,novel,press three,Albert Camus,620,2005
+Wild Grass,novel,press three,Albert Camus,620,2020
+Wild Grass,novel,press three,LuXun,200,2000
+Wild Grass,novel,press three,LuXun,200,2005
+Wild Grass,novel,press three,LuXun,200,2020
+Wild Grass,novel,press three,LuXun,50,2000
+Wild Grass,novel,press three,LuXun,50,2005
+Wild Grass,novel,press three,LuXun,50,2020
+Wild Grass,novel,press three,LuXun,620,2000
+Wild Grass,novel,press three,LuXun,620,2005
+Wild Grass,novel,press three,LuXun,620,2020
+Wild Grass,novel,press three,kk,200,2000
+Wild Grass,novel,press three,kk,200,2005
+Wild Grass,novel,press three,kk,200,2020
+Wild Grass,novel,press three,kk,50,2000
+Wild Grass,novel,press three,kk,50,2005
+Wild Grass,novel,press three,kk,50,2020
+Wild Grass,novel,press three,kk,620,2000
+Wild Grass,novel,press three,kk,620,2005
+Wild Grass,novel,press three,kk,620,2020
+Wild Grass,cs,press one,Albert Camus,200,2000
+Wild Grass,cs,press one,Albert Camus,200,2005
+Wild Grass,cs,press one,Albert Camus,200,2020
+Wild Grass,cs,press one,Albert Camus,50,2000
+Wild Grass,cs,press one,Albert Camus,50,2005
+Wild Grass,cs,press one,Albert Camus,50,2020
+Wild Grass,cs,press one,Albert Camus,620,2000
+Wild Grass,cs,press one,Albert Camus,620,2005
+Wild Grass,cs,press one,Albert Camus,620,2020
+Wild Grass,cs,press one,LuXun,200,2000
+Wild Grass,cs,press one,LuXun,200,2005
+Wild Grass,cs,press one,LuXun,200,2020
+Wild Grass,cs,press one,LuXun,50,2000
+Wild Grass,cs,press one,LuXun,50,2005
+Wild Grass,cs,press one,LuXun,50,2020
+Wild Grass,cs,press one,LuXun,620,2000
+Wild Grass,cs,press one,LuXun,620,2005
+Wild Grass,cs,press one,LuXun,620,2020
+Wild Grass,cs,press one,kk,200,2000
+Wild Grass,cs,press one,kk,200,2005
+Wild Grass,cs,press one,kk,200,2020
+Wild Grass,cs,press one,kk,50,2000
+Wild Grass,cs,press one,kk,50,2005
+Wild Grass,cs,press one,kk,50,2020
+Wild Grass,cs,press one,kk,620,2000
+Wild Grass,cs,press one,kk,620,2005
+Wild Grass,cs,press one,kk,620,2020
+Wild Grass,cs,press two,Albert Camus,200,2000
+Wild Grass,cs,press two,Albert Camus,200,2005
+Wild Grass,cs,press two,Albert Camus,200,2020
+Wild Grass,cs,press two,Albert Camus,50,2000
+Wild Grass,cs,press two,Albert Camus,50,2005
+Wild Grass,cs,press two,Albert Camus,50,2020
+Wild Grass,cs,press two,Albert Camus,620,2000
+Wild Grass,cs,press two,Albert Camus,620,2005
+Wild Grass,cs,press two,Albert Camus,620,2020
+Wild Grass,cs,press two,LuXun,200,2000
+Wild Grass,cs,press two,LuXun,200,2005
+Wild Grass,cs,press two,LuXun,200,2020
+Wild Grass,cs,press two,LuXun,50,2000
+Wild Grass,cs,press two,LuXun,50,2005
+Wild Grass,cs,press two,LuXun,50,2020
+Wild Grass,cs,press two,LuXun,620,2000
+Wild Grass,cs,press two,LuXun,620,2005
+Wild Grass,cs,press two,LuXun,620,2020
+Wild Grass,cs,press two,kk,200,2000
+Wild Grass,cs,press two,kk,200,2005
+Wild Grass,cs,press two,kk,200,2020
+Wild Grass,cs,press two,kk,50,2000
+Wild Grass,cs,press two,kk,50,2005
+Wild Grass,cs,press two,kk,50,2020
+Wild Grass,cs,press two,kk,620,2000
+Wild Grass,cs,press two,kk,620,2005
+Wild Grass,cs,press two,kk,620,2020
+Wild Grass,cs,press three,Albert Camus,200,2000
+Wild Grass,cs,press three,Albert Camus,200,2005
+Wild Grass,cs,press three,Albert Camus,200,2020
+Wild Grass,cs,press three,Albert Camus,50,2000
+Wild Grass,cs,press three,Albert Camus,50,2005
+Wild Grass,cs,press three,Albert Camus,50,2020
+Wild Grass,cs,press three,Albert Camus,620,2000
+Wild Grass,cs,press three,Albert Camus,620,2005
+Wild Grass,cs,press three,Albert Camus,620,2020
+Wild Grass,cs,press three,LuXun,200,2000
+Wild Grass,cs,press three,LuXun,200,2005
+Wild Grass,cs,press three,LuXun,200,2020
+Wild Grass,cs,press three,LuXun,50,2000
+Wild Grass,cs,press three,LuXun,50,2005
+Wild Grass,cs,press three,LuXun,50,2020
+Wild Grass,cs,press three,LuXun,620,2000
+Wild Grass,cs,press three,LuXun,620,2005
+Wild Grass,cs,press three,LuXun,620,2020
+Wild Grass,cs,press three,kk,200,2000
+Wild Grass,cs,press three,kk,200,2005
+Wild Grass,cs,press three,kk,200,2020
+Wild Grass,cs,press three,kk,50,2000
+Wild Grass,cs,press three,kk,50,2005
+Wild Grass,cs,press three,kk,50,2020
+Wild Grass,cs,press three,kk,620,2000
+Wild Grass,cs,press three,kk,620,2005
+Wild Grass,cs,press three,kk,620,2020
+Wild Grass,literary,press one,Albert Camus,200,2000
+Wild Grass,literary,press one,Albert Camus,200,2005
+Wild Grass,literary,press one,Albert Camus,200,2020
+Wild Grass,literary,press one,Albert Camus,50,2000
+Wild Grass,literary,press one,Albert Camus,50,2005
+Wild Grass,literary,press one,Albert Camus,50,2020
+Wild Grass,literary,press one,Albert Camus,620,2000
+Wild Grass,literary,press one,Albert Camus,620,2005
+Wild Grass,literary,press one,Albert Camus,620,2020
+Wild Grass,literary,press one,LuXun,200,2000
+Wild Grass,literary,press one,LuXun,200,2005
+Wild Grass,literary,press one,LuXun,200,2020
+Wild Grass,literary,press one,LuXun,50,2000
+Wild Grass,literary,press one,LuXun,50,2005
+Wild Grass,literary,press one,LuXun,50,2020
+Wild Grass,literary,press one,LuXun,620,2000
+Wild Grass,literary,press one,LuXun,620,2005
+Wild Grass,literary,press one,LuXun,620,2020
+Wild Grass,literary,press one,kk,200,2000
+Wild Grass,literary,press one,kk,200,2005
+Wild Grass,literary,press one,kk,200,2020
+Wild Grass,literary,press one,kk,50,2000
+Wild Grass,literary,press one,kk,50,2005
+Wild Grass,literary,press one,kk,50,2020
+Wild Grass,literary,press one,kk,620,2000
+Wild Grass,literary,press one,kk,620,2005
+Wild Grass,literary,press one,kk,620,2020
+Wild Grass,literary,press two,Albert Camus,200,2000
+Wild Grass,literary,press two,Albert Camus,200,2005
+Wild Grass,literary,press two,Albert Camus,200,2020
+Wild Grass,literary,press two,Albert Camus,50,2000
+Wild Grass,literary,press two,Albert Camus,50,2005
+Wild Grass,literary,press two,Albert Camus,50,2020
+Wild Grass,literary,press two,Albert Camus,620,2000
+Wild Grass,literary,press two,Albert Camus,620,2005
+Wild Grass,literary,press two,Albert Camus,620,2020
+Wild Grass,literary,press two,LuXun,200,2000
+Wild Grass,literary,press two,LuXun,200,2005
+Wild Grass,literary,press two,LuXun,200,2020
+Wild Grass,literary,press two,LuXun,50,2000
+Wild Grass,literary,press two,LuXun,50,2005
+Wild Grass,literary,press two,LuXun,50,2020
+Wild Grass,literary,press two,LuXun,620,2000
+Wild Grass,literary,press two,LuXun,620,2005
+Wild Grass,literary,press two,LuXun,620,2020
+Wild Grass,literary,press two,kk,200,2000
+Wild Grass,literary,press two,kk,200,2005
+Wild Grass,literary,press two,kk,200,2020
+Wild Grass,literary,press two,kk,50,2000
+Wild Grass,literary,press two,kk,50,2005
+Wild Grass,literary,press two,kk,50,2020
+Wild Grass,literary,press two,kk,620,2000
+Wild Grass,literary,press two,kk,620,2005
+Wild Grass,literary,press two,kk,620,2020
+Wild Grass,literary,press three,Albert Camus,200,2000
+Wild Grass,literary,press three,Albert Camus,200,2005
+Wild Grass,literary,press three,Albert Camus,200,2020
+Wild Grass,literary,press three,Albert Camus,50,2000
+Wild Grass,literary,press three,Albert Camus,50,2005
+Wild Grass,literary,press three,Albert Camus,50,2020
+Wild Grass,literary,press three,Albert Camus,620,2000
+Wild Grass,literary,press three,Albert Camus,620,2005
+Wild Grass,literary,press three,Albert Camus,620,2020
+Wild Grass,literary,press three,LuXun,200,2000
+Wild Grass,literary,press three,LuXun,200,2005
+Wild Grass,literary,press three,LuXun,200,2020
+Wild Grass,literary,press three,LuXun,50,2000
+Wild Grass,literary,press three,LuXun,50,2005
+Wild Grass,literary,press three,LuXun,50,2020
+Wild Grass,literary,press three,LuXun,620,2000
+Wild Grass,literary,press three,LuXun,620,2005
+Wild Grass,literary,press three,LuXun,620,2020
+Wild Grass,literary,press three,kk,200,2000
+Wild Grass,literary,press three,kk,200,2005
+Wild Grass,literary,press three,kk,200,2020
+Wild Grass,literary,press three,kk,50,2000
+Wild Grass,literary,press three,kk,50,2005
+Wild Grass,literary,press three,kk,50,2020
+Wild Grass,literary,press three,kk,620,2000
+Wild Grass,literary,press three,kk,620,2005
+Wild Grass,literary,press three,kk,620,2020

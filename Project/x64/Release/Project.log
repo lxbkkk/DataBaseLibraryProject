@@ -1,0 +1,15 @@
+﻿  delete.cpp
+F:\vs\Project\Project\delete.cpp(38,60): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+F:\vs\Project\Project\delete.cpp(50,54): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+F:\vs\Project\Project\delete.cpp(63,54): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+F:\vs\Project\Project\delete.cpp(72,54): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+F:\vs\Project\Project\delete.cpp(24,19): warning C4101: “stock”: 未引用的局部变量
+F:\vs\Project\Project\delete.cpp(24,12): warning C4101: “total”: 未引用的局部变量
+F:\vs\Project\Project\delete.cpp(23,9): warning C4101: “price”: 未引用的局部变量
+F:\vs\Project\Project\delete.cpp(24,6): warning C4101: “year”: 未引用的局部变量
+F:\vs\Project\Project\delete.cpp(25,15): warning C4101: “t”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 274 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project.vcxproj -> F:\vs\Project\x64\Release\Project.exe
